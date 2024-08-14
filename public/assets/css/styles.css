@@ -1,0 +1,15 @@
+.borde-negro{
+    border: solid 1px black;
+}
+.borde-blanco{
+    border: solid 1px white;
+}
+.borde-verde{
+    border: solid 1px green;
+}
+.borde-rojo{
+    border: solid 1px red;
+}
+.borde-amarillo{
+    border: solid 1px yellow;
+}
